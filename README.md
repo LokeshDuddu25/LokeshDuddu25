@@ -18,4 +18,4 @@ My Project:
 
 🏦 Bank Customer Details Analysis – SQL + Python integration for business insights
 
-Sentiment Analysis Using Natural Language Processing
+Sentiment Analysis Using Natural Language Processing: Built a Machine Learning (Natural Language Processing) model with 85% accuracy
