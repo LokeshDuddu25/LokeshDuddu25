@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**LokeshDuddu25/LokeshDuddu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings, I'm Lokesh Duddu, an enthusiastic Python developer and data analyst with an outstanding foundation in machine learning, SQL, and data science. I enjoy translating chaotic information into valuable insights and practical alternatives. I recently acquired a Bachelor of Science in Computer Science (AI & ML).
 
-Here are some ideas to get you started:
+🔹 My realm of expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, SQL, NumPy, Pandas, and Power BI for data analysis and programming
+
+SVM, classification, and model evaluation in machine learning
+
+Database Administration: MySQL and SQLite
+
+Data visualization using Matplotlib and Power BI dashboards
+
+My Project:
+
+🫀 Heart Attack Prediction using Logistic Regression: Built a Machine Learning (Logistic Regression) model with 88% accuracy
+
+🏦 Bank Customer Details Analysis – SQL + Python integration for business insights
+
+Sentiment Analysis Using Natural Language Processing
