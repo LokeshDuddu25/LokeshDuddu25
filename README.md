@@ -21,3 +21,6 @@ My Project:
 Sentiment Analysis Using Natural Language Processing: Built a Machine Learning (Natural Language Processing) model with 85% accuracy
 
 🌱At the moment, I am expanding my expertise in the realms of advanced analytics and business intelligence. My mission is to establish data-driven solutions that enable organizations to make decisions with greater confidence.📌 
+
+📫Let's connect:
+Linkedin: 
