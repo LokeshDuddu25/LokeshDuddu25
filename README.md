@@ -23,4 +23,7 @@ Sentiment Analysis Using Natural Language Processing: Built a Machine Learning (
 🌱At the moment, I am expanding my expertise in the realms of advanced analytics and business intelligence. My mission is to establish data-driven solutions that enable organizations to make decisions with greater confidence.📌 
 
 📫Let's connect:
-Linkedin: 
+
+Linkedin:  https://www.linkedin.com/in/lokesh-duddu-666422312/
+
+GitHub:
