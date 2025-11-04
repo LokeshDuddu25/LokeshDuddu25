@@ -26,4 +26,5 @@ Sentiment Analysis Using Natural Language Processing: Built a Machine Learning (
 
 Linkedin:  https://www.linkedin.com/in/lokesh-duddu-666422312/
 
-GitHub:https://github.com/LokeshDuddu25
+Email: lokesh.duddu2504@gmail.com
+
